@@ -10,8 +10,6 @@
  */
 namespace KnowTheCode\PHPOutputBuffer;
 
-namespace KnowTheCode\PHPOutputBuffer;
-
 add_shortcode( 'infobox', __NAMESPACE__ . '\process_infobox_shortcode' );
 /**
  * Process the infobox shortcode and return the HTML.
